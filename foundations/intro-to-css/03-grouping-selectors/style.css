@@ -1,0 +1,12 @@
+.one,.tow{
+    font-family:  Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+.one{
+    background-color: black;
+    color: lightgreen;
+}
+.tow{
+    background-color: crimson;
+    color: goldenrod;
+}
